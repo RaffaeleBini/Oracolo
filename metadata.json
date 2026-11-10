@@ -1,0 +1,6 @@
+{
+  "name": "Oracolo - Decision Assistant",
+  "description": "Valuta le tue decisioni con l'intelligenza artificiale: elenchi ponderati di pro e contro, tabelle comparative e analisi SWOT per scelte consapevoli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
